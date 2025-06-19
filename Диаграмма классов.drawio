@@ -161,16 +161,6 @@
             <mxPoint x="440" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9reaRPdCDDPhgIKVHst2-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9reaRPdCDDPhgIKVHst2-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1085" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9reaRPdCDDPhgIKVHst2-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9reaRPdCDDPhgIKVHst2-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1085" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9reaRPdCDDPhgIKVHst2-36" value="Сервер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=2;fontColor=light-dark(#000000,#000000);fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1030" y="478" width="40" height="80" as="geometry" />
         </mxCell>
