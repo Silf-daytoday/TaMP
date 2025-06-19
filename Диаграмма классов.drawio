@@ -71,7 +71,7 @@
             <mxPoint x="200" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9reaRPdCDDPhgIKVHst2-9" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Пользователь&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+        <mxCell id="9reaRPdCDDPhgIKVHst2-9" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Пользователь&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fontColor=light-dark(#000000,#000000);labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="470" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9reaRPdCDDPhgIKVHst2-10" value="Админ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=2;fontSize=16;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;" vertex="1" parent="1">
